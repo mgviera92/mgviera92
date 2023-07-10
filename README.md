@@ -41,12 +41,12 @@
 ### :fire: Mis estadísticas:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mgviera92&theme=blood-dark&border_radius=9&mode=weekly)](https://git.io/streak-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgviera92&layout=compact)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgviera92&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mgviera92/mgviera92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgviera92&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
