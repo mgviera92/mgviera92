@@ -8,7 +8,7 @@
   <a href="linkedin.com/in/gabriela-viera-1653b5265">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="mailto:gabiviera92@gmail.com">
+    <a href="gabiviera92@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 </div>
