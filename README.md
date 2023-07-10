@@ -2,7 +2,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200"/>
 </div>
-<div align="center">Hola! Soy Gabriela 👋 Soy una desarrolladora Full Stack</div>
+<div align="center">Hola! Mi nombre es Gabriela 👋</div>
+<div align="center">Soy una desarrolladora Web Full Stack</div>
 <div id="badges" align="center">
   <a href="linkedin.com/in/gabriela-viera-1653b5265">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
