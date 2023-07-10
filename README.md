@@ -3,6 +3,11 @@
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200"/>
 </div>
 <div align="center">Hola! Soy Gabriela 👋</div>
+<div id="badges">
+  <a href="linkedin.com/in/gabriela-viera-1653b5265">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <!--
 **mgviera92/mgviera92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
